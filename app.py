@@ -1,5 +1,5 @@
 #displaying the user with warm welcome
-print("=========*******welocome to healthy life program*******============")
+print("=========*******welcome to healthylife program********============")
 
 #Taking user weight
 weight=int(input("Enter the wight in (kgs): "))
